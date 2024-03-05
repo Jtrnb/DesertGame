@@ -1,3 +1,5 @@
 #Enemies
 
 [[Demons]]
+
+[[Scavs]]
