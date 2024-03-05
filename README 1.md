@@ -1,4 +1,0 @@
-# DesertGame
-
-guns and things
-

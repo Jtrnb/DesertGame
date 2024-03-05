@@ -1,7 +1,0 @@
-# DesertGame
-
-
-carrot
-
-wompers
-banana
