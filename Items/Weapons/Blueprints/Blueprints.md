@@ -9,3 +9,5 @@
 [[Wasteland's Finest]]
 
 [[Natasha]]
+
+[[Thunderbolt]]
