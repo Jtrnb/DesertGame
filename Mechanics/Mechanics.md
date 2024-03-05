@@ -13,3 +13,5 @@
 [[Status Effects]]
 
 [[Currency]]
+
+[[Loot Tiers]]
