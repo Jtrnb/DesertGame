@@ -7,3 +7,7 @@
 [[Bazar]]
 
 [[Mine(s)]]
+
+[[Bunker]]
+
+[[Tower]]
