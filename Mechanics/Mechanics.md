@@ -11,3 +11,5 @@
 [[Storm]]
 
 [[Status Effects]]
+
+[[Currency]]
