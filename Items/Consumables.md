@@ -1,5 +1,6 @@
 #Items
 
+Food:
 [[Beans]]
 
 [[Waterbottle]]
@@ -8,6 +9,7 @@
 
 [[Vitamin Water]] 
 
+Meds:
 [[Crude Bandage]]
 
 [[First Aid Kit]]
@@ -19,4 +21,5 @@
 [[Medicated Wraps]]
 
 [[Matches]]
+
 
