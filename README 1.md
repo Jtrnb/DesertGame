@@ -1,7 +1,4 @@
 # DesertGame
 
+guns and things
 
-carrot
-
-
-banana
