@@ -7,3 +7,7 @@
 [[Skinner]]
 
 [[Seeker]]
+
+[[Tongue]]
+
+[[Beguiler]]

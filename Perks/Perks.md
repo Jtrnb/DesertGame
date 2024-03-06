@@ -21,7 +21,7 @@ Perks are your players ability, some perks have alternate versions that change u
 
 [[Arbiter ]] - [[Blitzer]]
 
-[[Immolator]] - [[Drifter]]
+[[Immolator]] - [[Drifter]] - [[Matador]]
 
 [[Artillerist]] - [[Riskrunner]]
 
