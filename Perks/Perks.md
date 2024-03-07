@@ -15,7 +15,7 @@ Perks are your players ability, some perks have alternate versions that change u
 
 [[Sovereign ]] - [[Apostle]]
 
-[[Mindflayer]] -
+[[Mindflayer]] - [[Lich]]
 
 [[Vagabond]] - [[Berserker]] - [[Executioner]]
 

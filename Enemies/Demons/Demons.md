@@ -8,6 +8,4 @@
 
 [[Seeker]]
 
-[[Tongue]]
-
 [[Beguiler]]
